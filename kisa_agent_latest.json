@@ -1,0 +1,9 @@
+{
+  "versionCode": 4,
+  "versionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
+  "releaseNotes": {
+    "ko": "- 버그 수정\n- 다크모드\n- 자동업데이트 기능 추가\n- 버튼 기능 추가 등",
+    "en": "- Bug fixes\n- Dark mode theme\n- Auto Update Feature\n- Button features and etc"
+  }
+}
