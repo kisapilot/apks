@@ -1,10 +1,10 @@
 {
-    "versionCode": 14,
-    "versionName": "1.0.4",
+    "versionCode": 15,
+    "versionName": "1.0.5",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "7da4fec1e4a9854a8d2ce2c86597d707e1eac8f508d96fb66619f2d0f68d4877",
+    "sha256": "135be66b023e35fa8c20a94522987962ac6e3657f6be84ca8add807229021088",
     "releaseNotes": {
-        "ko": "- 1.0.4 \uae30\ub2a5\uacfc \uc5c5\ub370\uc774\ud2b8 \ubc29\uc2dd\uc73c\ub85c \ubcf5\uad6c",
-        "en": "- Restore version 1.0.4 functionality and update flow"
+        "ko": "- \uc5c5\ub370\uc774\ud2b8 \ud14c\uc2a4\ud2b8\uc6a9 \ubc84\uc804: \ubcf5\uad6c\ud55c 1.0.4\uc640 \ub3d9\uc77c \uae30\ub2a5",
+        "en": "- Update test release with identical restored 1.0.4 functionality"
     }
 }
