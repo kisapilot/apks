@@ -1,10 +1,10 @@
 {
-    "versionCode": 6,
+    "versionCode": 14,
     "versionName": "1.0.4",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "5e9ba18adef0ddf3eff6413d158890fcb3e40e5fbe6f82dbf3b952f4a49c5371",
+    "sha256": "7da4fec1e4a9854a8d2ce2c86597d707e1eac8f508d96fb66619f2d0f68d4877",
     "releaseNotes": {
-        "ko": "- \uc8fc\ud589 \ub85c\uadf8 ZIP \ub2e4\uc6b4\ub85c\ub4dc \ucd94\uac00\n- \uc601\uc0c1 \ud3ec\ud568/\uc81c\uc678 \ubc0f \uc5ec\ub7ec \uc8fc\ud589 \uc120\ud0dd \uc9c0\uc6d0\n- \uc804\uc1a1 \uc9c4\ud589\ub960 \ud45c\uc2dc \ubc0f \ucde8\uc18c \uc9c0\uc6d0",
-        "en": "- Download driving logs as ZIP\n- Optional videos and multiple route selection\n- Download progress and cancellation"
+        "ko": "- 1.0.4 \uae30\ub2a5\uacfc \uc5c5\ub370\uc774\ud2b8 \ubc29\uc2dd\uc73c\ub85c \ubcf5\uad6c",
+        "en": "- Restore version 1.0.4 functionality and update flow"
     }
 }
