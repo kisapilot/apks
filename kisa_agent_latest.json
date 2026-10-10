@@ -1,9 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-  "releaseNotes": {
-    "ko": "- 버그 수정\n- 다크모드\n- 자동업데이트 기능 추가\n- 버튼 기능 추가 등",
-    "en": "- Bug fixes\n- Dark mode theme\n- Auto Update Feature\n- Button features and etc"
-  }
+    "versionCode": 5,
+    "versionName": "1.0.3",
+    "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
+    "sha256": "34fbc12d63d603d9191d3ac14e2d99fd8e2fa9dce1d388b8a5db6ab7de829d74",
+    "releaseNotes": {
+        "ko": "- \ud30c\uc77c \ub2e4\uc6b4\ub85c\ub4dc \uc624\ub958 \uc218\uc815\n- \ud130\ubbf8\ub110 \ud654\uba74 \uc804\ud658 \ubc0f \ub124\ud2b8\uc6cc\ud06c \ub300\uae30 \ucc98\ub9ac \uac1c\uc120\n- \uc124\uce58 \ud5c8\uc6a9 \ud655\uc778 \ud6c4 \uc571 \ub0b4\ubd80 \ub2e4\uc6b4\ub85c\ub4dc \ubc0f \uc124\uce58 \uc5f0\uacb0",
+        "en": "- Fix file downloads\n- Improve terminal lifecycle and network handling\n- Request install permission before downloading and open the installer automatically"
+    }
 }
