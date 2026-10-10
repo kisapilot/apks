@@ -1,10 +1,10 @@
 {
-    "versionCode": 15,
-    "versionName": "1.0.5",
+    "versionCode": 16,
+    "versionName": "1.0.6",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "135be66b023e35fa8c20a94522987962ac6e3657f6be84ca8add807229021088",
+    "sha256": "53bfe7391d79ae88d9c7822d4af197ee8d9e5215afe0f267f4f12b48d72d369a",
     "releaseNotes": {
-        "ko": "- \uc5c5\ub370\uc774\ud2b8 \ud14c\uc2a4\ud2b8\uc6a9 \ubc84\uc804: \ubcf5\uad6c\ud55c 1.0.4\uc640 \ub3d9\uc77c \uae30\ub2a5",
-        "en": "- Update test release with identical restored 1.0.4 functionality"
+        "ko": "- IP \uc9c1\uc811 \uc785\ub825\uc73c\ub85c \uae30\uae30 \uc5f0\uacb0 \uae30\ub2a5 \ucd94\uac00",
+        "en": "- Add manual device connection by IPv4 address"
     }
 }
