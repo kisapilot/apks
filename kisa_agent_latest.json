@@ -1,10 +1,10 @@
 {
-    "versionCode": 17,
-    "versionName": "1.0.7",
+    "versionCode": 18,
+    "versionName": "1.0.8",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "4142b0dfc7d839a6ad15dd06ba97e3a7141ff87e81e3629735b43f270c4255ed",
+    "sha256": "ed6f86f9b4a9354a3420ddb88e72112126ae1126f762fa0e117a14a1cb9e7e4d",
     "releaseNotes": {
-        "ko": "- \uc7ac\ubd80\ud305 Safe/Force \ubc84\ud2bc \ucd94\uac00 \ubc0f C4 \uc81c\uc5b4 \ud574\uc81c \ud655\uc778 \uc5f0\ub3d9",
-        "en": "- Add Safe/Force reboot buttons with C4 disengagement confirmation"
+        "ko": "- \uba85\ub839\uc5b4 \ubc0f \uc7ac\ubd80\ud305 \ubc84\ud2bc \ub192\uc774 \uc870\uc815\uacfc \ub3d9\uc77c\ud55c 3\ub4f1\ubd84 \ubc30\uce58",
+        "en": "- Match command and reboot button heights and equalize three-column layout"
     }
 }
