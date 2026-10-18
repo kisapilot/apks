@@ -1,10 +1,10 @@
 {
-    "versionCode": 20,
-    "versionName": "1.0.10",
+    "versionCode": 21,
+    "versionName": "1.0.11",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "402e0c4a07156d928829997e8af9cbd2672aea2070d9304d040929259b2fd19b",
+    "sha256": "453ac73952a390e4ebbe3300ab4e6973e0b1f8ad7c4da412d03666028510add5",
     "releaseNotes": {
-        "ko": "- \uae30\ub85d \uc911\uc778 \ub85c\uadf8 \uc81c\uc678, \uc0ad\uc81c\u00b7\ubcc0\uacbd \ud30c\uc77c \uac74\ub108\ub6f0\uae30 \ubc0f \ub204\ub77d \ubcf4\uace0\uc11c \ucd94\uac00",
-        "en": "- Exclude active logs, skip missing or changed files, and include an omission report"
+        "ko": "- \ubd81\ub9c8\ud06c \uc55e\ub4a4 \uad6c\uac04\uc758 \uc6d0\ubcf8 \ub85c\uadf8\u00b7\uc601\uc0c1 \uac00\uc838\uc624\uae30 \ucd94\uac00",
+        "en": "- Export bookmarked segments and surrounding original drive logs and camera videos"
     }
 }
