@@ -1,10 +1,10 @@
 {
-    "versionCode": 21,
-    "versionName": "1.0.11",
+    "versionCode": 22,
+    "versionName": "1.0.12",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "453ac73952a390e4ebbe3300ab4e6973e0b1f8ad7c4da412d03666028510add5",
+    "sha256": "875b0e73b39a55952647c53bcd39cc5b056b2a19be1983feacaecd7dc779a495",
     "releaseNotes": {
-        "ko": "- \ubd81\ub9c8\ud06c \uc55e\ub4a4 \uad6c\uac04\uc758 \uc6d0\ubcf8 \ub85c\uadf8\u00b7\uc601\uc0c1 \uac00\uc838\uc624\uae30 \ucd94\uac00",
-        "en": "- Export bookmarked segments and surrounding original drive logs and camera videos"
+        "ko": "- \ubd81\ub9c8\ud06c \ud654\uba74\uc758 \ud558\ub2e8 \ub0b4\ube44\uac8c\uc774\uc158 \uacb9\uce68 \uc218\uc815 \ubc0f \uac00\uc838\uc624\uae30 \ubc84\ud2bc \uc0c1\ub2e8 \ubc30\uce58",
+        "en": "- Respect system navigation insets and move bookmark download above the list"
     }
 }
