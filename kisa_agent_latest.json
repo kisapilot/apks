@@ -1,10 +1,10 @@
 {
-    "versionCode": 22,
-    "versionName": "1.0.12",
+    "versionCode": 23,
+    "versionName": "1.0.13",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "875b0e73b39a55952647c53bcd39cc5b056b2a19be1983feacaecd7dc779a495",
+    "sha256": "020be9ffe3338caaefa6eda0ea61ce340ae1b8d13b906249a3db82fc54f6af28",
     "releaseNotes": {
-        "ko": "- \ubd81\ub9c8\ud06c \ud654\uba74\uc758 \ud558\ub2e8 \ub0b4\ube44\uac8c\uc774\uc158 \uacb9\uce68 \uc218\uc815 \ubc0f \uac00\uc838\uc624\uae30 \ubc84\ud2bc \uc0c1\ub2e8 \ubc30\uce58",
-        "en": "- Respect system navigation insets and move bookmark download above the list"
+        "ko": "- \ubd81\ub9c8\ud06c \uc790\ub3d9 \uc800\uc7a5(\uae30\ubcf8 ON), \uc911\ub2e8 \ud6c4 \uc774\uc5b4\ubc1b\uae30, C4 \uc804\uc1a1 \uc0c1\ud0dc \ud45c\uc2dc. \ucd5c\ucd08 \uc800\uc7a5 \ud3f4\ub354 \uc9c0\uc815 \ubc0f C4 \ucf54\ub4dc \uc5c5\ub370\uc774\ud2b8 \ud544\uc694.",
+        "en": "- Automatic bookmark saving (ON by default), resumable transfers and C4 status display. Choose a folder once and update the C4 code."
     }
 }
