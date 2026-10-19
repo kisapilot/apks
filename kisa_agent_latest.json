@@ -1,10 +1,10 @@
 {
-    "versionCode": 23,
-    "versionName": "1.0.13",
+    "versionCode": 24,
+    "versionName": "1.0.14",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "020be9ffe3338caaefa6eda0ea61ce340ae1b8d13b906249a3db82fc54f6af28",
+    "sha256": "ccc8689bf8805252c289d8c6b3751fb104247ece4f158bc96431cdde3465d8b1",
     "releaseNotes": {
-        "ko": "- \ubd81\ub9c8\ud06c \uc790\ub3d9 \uc800\uc7a5(\uae30\ubcf8 ON), \uc911\ub2e8 \ud6c4 \uc774\uc5b4\ubc1b\uae30, C4 \uc804\uc1a1 \uc0c1\ud0dc \ud45c\uc2dc. \ucd5c\ucd08 \uc800\uc7a5 \ud3f4\ub354 \uc9c0\uc815 \ubc0f C4 \ucf54\ub4dc \uc5c5\ub370\uc774\ud2b8 \ud544\uc694.",
-        "en": "- Automatic bookmark saving (ON by default), resumable transfers and C4 status display. Choose a folder once and update the C4 code."
+        "ko": "- \uc790\ub3d9 \uc800\uc7a5 \ub300\uae30 \uc911\uc5d0\ub294 \ubd81\ub9c8\ud06c \uc544\uc774\ucf58, \ud30c\uc77c \uc804\uc1a1 \uc911\uc5d0\ub9cc \ub2e4\uc6b4\ub85c\ub4dc \uc544\uc774\ucf58 \ud45c\uc2dc. \uc790\ub3d9 \uc800\uc7a5\uc740 \ucd5c\ucd08 \ud3f4\ub354 \uc9c0\uc815 \ubc0f C4 \ucf54\ub4dc \uc5c5\ub370\uc774\ud2b8 \ud544\uc694.",
+        "en": "- Show a bookmark icon while waiting and the download icon only during file transfers. Automatic saving requires folder setup and updated C4 code."
     }
 }
