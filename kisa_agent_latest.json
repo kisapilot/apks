@@ -1,10 +1,10 @@
 {
-    "versionCode": 24,
-    "versionName": "1.0.14",
+    "versionCode": 25,
+    "versionName": "1.0.15",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "ccc8689bf8805252c289d8c6b3751fb104247ece4f158bc96431cdde3465d8b1",
+    "sha256": "3fe6f06722b272b7bef787f84793f20817656fbeb9437373f071d6ddb62934be",
     "releaseNotes": {
-        "ko": "- \uc790\ub3d9 \uc800\uc7a5 \ub300\uae30 \uc911\uc5d0\ub294 \ubd81\ub9c8\ud06c \uc544\uc774\ucf58, \ud30c\uc77c \uc804\uc1a1 \uc911\uc5d0\ub9cc \ub2e4\uc6b4\ub85c\ub4dc \uc544\uc774\ucf58 \ud45c\uc2dc. \uc790\ub3d9 \uc800\uc7a5\uc740 \ucd5c\ucd08 \ud3f4\ub354 \uc9c0\uc815 \ubc0f C4 \ucf54\ub4dc \uc5c5\ub370\uc774\ud2b8 \ud544\uc694.",
-        "en": "- Show a bookmark icon while waiting and the download icon only during file transfers. Automatic saving requires folder setup and updated C4 code."
+        "ko": "- C4 \uc6d0\ubcf8\uc774 \uc815\uc0c1 \ubaa9\ub85d\uc5d0\uc11c 3\ud68c \uc5f0\uc18d \uc0ac\ub77c\uc9c0\uba74 \uc790\ub3d9 \ub2e4\uc6b4\ub85c\ub4dc \ub300\uae30\uc5f4\uc5d0\uc11c \uc81c\uc678. \ubc1b\uc740 \ud30c\uc77c\uc740 \uc720\uc9c0\ud558\uba70 \uc815\ub9ac \ub0b4\uc5ed\uc744 \uc0c1\ud0dc \ucc3d\uc5d0 \ud45c\uc2dc\ud569\ub2c8\ub2e4.",
+        "en": "- Remove queued bookmarks missing from three successful source listings; preserve saved files and show the last cleanup in the status dialog."
     }
 }
