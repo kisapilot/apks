@@ -1,10 +1,10 @@
 {
-    "versionCode": 25,
-    "versionName": "1.0.15",
+    "versionCode": 26,
+    "versionName": "1.0.16",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "3fe6f06722b272b7bef787f84793f20817656fbeb9437373f071d6ddb62934be",
+    "sha256": "2c879e401a88a265fd2ab1a3504d26bfd5dd68d2daad6708cda128434e0d66e7",
     "releaseNotes": {
-        "ko": "- C4 \uc6d0\ubcf8\uc774 \uc815\uc0c1 \ubaa9\ub85d\uc5d0\uc11c 3\ud68c \uc5f0\uc18d \uc0ac\ub77c\uc9c0\uba74 \uc790\ub3d9 \ub2e4\uc6b4\ub85c\ub4dc \ub300\uae30\uc5f4\uc5d0\uc11c \uc81c\uc678. \ubc1b\uc740 \ud30c\uc77c\uc740 \uc720\uc9c0\ud558\uba70 \uc815\ub9ac \ub0b4\uc5ed\uc744 \uc0c1\ud0dc \ucc3d\uc5d0 \ud45c\uc2dc\ud569\ub2c8\ub2e4.",
-        "en": "- Remove queued bookmarks missing from three successful source listings; preserve saved files and show the last cleanup in the status dialog."
+        "ko": "- \ubd81\ub9c8\ud06c \uc601\uc0c1\uacfc \ub85c\uadf8\ub97c \uc8fc\ud589 \uc911\uc5d0\ub3c4 \ud568\uaed8 \uc800\uc7a5\ud569\ub2c8\ub2e4. \uc5f0\uacb0\uc774 \ub04a\uae30\uba74 \ubc1b\uc740 \ubd80\ubd84\uc744 \uc720\uc9c0\ud558\uace0 \uc7ac\uc5f0\uacb0 \uc2dc \uc774\uc5b4\ubc1b\uc2b5\ub2c8\ub2e4.",
+        "en": "- Download bookmark logs and video while driving; preserve partial files and resume after reconnecting."
     }
 }
