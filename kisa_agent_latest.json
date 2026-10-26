@@ -1,10 +1,10 @@
 {
-    "versionCode": 29,
-    "versionName": "1.0.19",
+    "versionCode": 30,
+    "versionName": "1.0.20",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "94245bb8d5cf0d7e557b7da620e3135dd343faa8cb2dd62f626521fe03cbf57c",
+    "sha256": "2b176fdcd0b01a28bf364a6054a4419566a842cea05a8d31be8cbdf969eb143e",
     "releaseNotes": {
-        "ko": "- \ud55c\uad6d\ud615 \uc2e0\ud638\ub4f1 \uc804\uc6a9 \ubaa8\ub378 \uc801\uc6a9: \ube68\uac15\u00b7\ucd08\ub85d\u00b7\uc88c\ud68c\uc804\u00b7\ub178\ub791 \uc608\uce21 \uc2dc\ud5d8",
-        "en": "- Experimental Korean traffic-signal ONNX model with color and left-arrow predictions"
+        "ko": "- \uce74\uba54\ub77c \ubbf8\ub9ac\ubcf4\uae30\uc640 AI \ubd84\uc11d \ubd84\ub9ac: \uc601\uc0c1 \uac31\uc2e0 \uac1c\uc120 \ubc0f \uc624\ub798\ub41c \uac80\ucd9c \ud45c\uc2dc \uc81c\uac70",
+        "en": "- Separate camera preview from AI inference and expire stale overlays"
     }
 }
