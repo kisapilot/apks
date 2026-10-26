@@ -1,10 +1,10 @@
 {
-    "versionCode": 28,
-    "versionName": "1.0.18",
+    "versionCode": 29,
+    "versionName": "1.0.19",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "a2b21b68b5a8c3c389256c44e7e1da6156525fb43908783ad60226f70105a626",
+    "sha256": "94245bb8d5cf0d7e557b7da620e3135dd343faa8cb2dd62f626521fe03cbf57c",
     "releaseNotes": {
-        "ko": "- \ucc28\ub7c9\u00b7\uc2e0\ud638\ub4f1 \uc790\ub3d9 \uc704\uce58 \uac80\ucd9c, \uce74\uba54\ub77c \uc2dc\ud5d8\uacfc \ud45c\ubcf8 \uc218\uc9d1, \ud130\ubbf8\ub110\u00b7KST \uac1c\uc120",
-        "en": "- Pretrained vehicle/traffic-light localization, camera samples, terminal and KST improvements"
+        "ko": "- \ud55c\uad6d\ud615 \uc2e0\ud638\ub4f1 \uc804\uc6a9 \ubaa8\ub378 \uc801\uc6a9: \ube68\uac15\u00b7\ucd08\ub85d\u00b7\uc88c\ud68c\uc804\u00b7\ub178\ub791 \uc608\uce21 \uc2dc\ud5d8",
+        "en": "- Experimental Korean traffic-signal ONNX model with color and left-arrow predictions"
     }
 }
