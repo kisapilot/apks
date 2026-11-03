@@ -1,10 +1,10 @@
 {
-    "versionCode": 32,
-    "versionName": "1.0.22",
-    "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "704dcb30f87ddd37c926e1339928d419bc3b298cc138a5171e4927556f96fa1b",
-    "releaseNotes": {
-        "ko": "- \ubd81\ub9c8\ud06c ZIP \uc774\ub984\uc744 KST \ub0a0\uc9dc\u00b7\uc2dc\uac04\uc73c\ub85c \ubcc0\uacbd\ud558\uace0 \ubcc4\ub3c4 \ubd81\ub9c8\ud06c JSON \uc800\uc7a5 \uc81c\uac70",
-        "en": "- Name bookmark ZIPs by KST date/time and omit generated bookmark JSON files"
-    }
+  "versionCode": 33,
+  "versionName": "1.0.23",
+  "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
+  "sha256": "ff96fba071371239e39221a9b2bc77043dd7ad40c38f72e3f20188d71d76a8e6",
+  "releaseNotes": {
+    "ko": "정차 상태에서 좌우 깜빡이를 시험하는 메뉴와 진단 복사 기능 추가. 호환되는 C4 코드와 Panda 펌웨어 필요.",
+    "en": "Adds stationary turn signal testing and diagnostic copying. Requires compatible C4 software and Panda firmware."
+  }
 }
