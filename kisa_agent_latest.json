@@ -1,10 +1,10 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.25",
+  "versionCode": 36,
+  "versionName": "1.0.26",
   "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-  "sha256": "d5af768a23013763ab86d78644acbc1443d2f265b78e5f034a646f59f9cb8289",
+  "sha256": "ae78dd68c761dc732535108e3e74b69b4fe2b54aa3fba3f505d2307bc9160513",
   "releaseNotes": {
-    "ko": "이동 시험에서 차로 유지 및 크루즈를 켠 상태도 지원하도록 안내를 갱신했습니다. 호환 C4 코드가 필요합니다.",
-    "en": "Updates moving test instructions for use with lane keeping or cruise active. Requires compatible C4 software."
+    "ko": "저속 및 i-Pedal 정차 방향지시등 시험 안내를 갱신했습니다. 호환 C4 코드와 Panda 펌웨어가 필요합니다.",
+    "en": "Updates low-speed and i-Pedal stationary blinker test instructions. Requires compatible C4 software and Panda firmware."
   }
 }
