@@ -1,10 +1,10 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.26",
+  "versionCode": 37,
+  "versionName": "1.0.27",
   "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-  "sha256": "ae78dd68c761dc732535108e3e74b69b4fe2b54aa3fba3f505d2307bc9160513",
+  "sha256": "dbcdb98863b49d8a338f6dd79d9c39ced554fc284d191cd02c6369f249223fde",
   "releaseNotes": {
-    "ko": "저속 및 i-Pedal 정차 방향지시등 시험 안내를 갱신했습니다. 호환 C4 코드와 Panda 펌웨어가 필요합니다.",
-    "en": "Updates low-speed and i-Pedal stationary blinker test instructions. Requires compatible C4 software and Panda firmware."
+    "ko": "SPAS 조향 시험 준비 화면에 목표각 1도 조절 및 실제 핸들 각도 관측을 추가했습니다. 조향 송신은 연결되지 않았습니다.",
+    "en": "Adds SPAS steering test preparation with 1-degree target adjustment and live steering-angle observation. Steering transmission is not connected."
   }
 }
