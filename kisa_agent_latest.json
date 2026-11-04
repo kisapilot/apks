@@ -1,10 +1,10 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.23",
+  "versionCode": 34,
+  "versionName": "1.0.24",
   "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-  "sha256": "ff96fba071371239e39221a9b2bc77043dd7ad40c38f72e3f20188d71d76a8e6",
+  "sha256": "a67838d94e8e59486245c53b8e49197097e71cfe70bfb26a5e926862bc1e7719",
   "releaseNotes": {
-    "ko": "정차 상태에서 좌우 깜빡이를 시험하는 메뉴와 진단 복사 기능 추가. 호환되는 C4 코드와 Panda 펌웨어 필요.",
-    "en": "Adds stationary turn signal testing and diagnostic copying. Requires compatible C4 software and Panda firmware."
+    "ko": "이동 중 방향지시등 시험 조건을 안내합니다. 이동 시험을 지원하는 C4 코드와 Panda 펌웨어 및 TBT 실험 설정이 필요합니다.",
+    "en": "Shows the conditions for moving turn signal tests. Requires compatible C4 software, Panda firmware, and the TBT experiment setting."
   }
 }
