@@ -1,10 +1,10 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.27",
+  "versionCode": 38,
+  "versionName": "1.0.28",
   "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-  "sha256": "dbcdb98863b49d8a338f6dd79d9c39ced554fc284d191cd02c6369f249223fde",
+  "sha256": "cc79a19c42ef2d0175ad119a7939ee7fb1e969e733d4aa1c2562f09fca07bed4",
   "releaseNotes": {
-    "ko": "SPAS 조향 시험 준비 화면에 목표각 1도 조절 및 실제 핸들 각도 관측을 추가했습니다. 조향 송신은 연결되지 않았습니다.",
-    "en": "Adds SPAS steering test preparation with 1-degree target adjustment and live steering-angle observation. Steering transmission is not connected."
+    "ko": "조향 시험 준비 화면에 C4 연결 확인을 추가했습니다. 목표각 수신과 현재 핸들 각도를 표시하며 CAN 조향 송신은 연결되지 않았습니다.",
+    "en": "Adds a C4 steering preview connection check. Displays received target and current steering angle without steering CAN transmission."
   }
 }
