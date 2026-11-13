@@ -1,10 +1,10 @@
 {
-    "versionCode": 39,
-    "versionName": "1.0.29",
+    "versionCode": 40,
+    "versionName": "1.0.30",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "22d370f885433ae4a502209f07c6d9ca7cda223a910bb8c5f6ee4a8d52e53321",
+    "sha256": "fe4e841f43a6b5204536c925b52e8f70504cbe0217838c010322e5b2b710a498",
     "releaseNotes": {
-        "ko": "- \ube0c\ub79c\uce58 \uc120\ud0dd \ubc84\ud2bc\uacfc \uc5f0\uacb0 \ud6c4 \ubaa9\ub85d \uc870\ud68c \ubcf5\uad6c; \ubaa9\ub85d\uc774 \uc5c6\uc73c\uba74 \uc7ac\uc870\ud68c \uc9c0\uc6d0",
-        "en": "- Restore branch selection and connection-time branch loading with retry"
+        "ko": "- \ud130\ubbf8\ub110 ANSI \uc0c9\uc0c1\u00b7\ubc30\uacbd\uc0c9, 100\uc5f4 \uac00\ub85c \uc2a4\ud06c\ub864\u00b7\uae00\uc790 \ud06c\uae30\u00b7\ud654\uba74 \ub9de\ucda4, Ctrl-C\u00b7Esc\u00b7\ubc29\ud5a5\ud0a4 \uc9c0\uc6d0",
+        "en": "- Preserve terminal ANSI colors; add 100-column scrolling, text sizing, fit mode and control keys"
     }
 }
