@@ -1,10 +1,10 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.28",
-  "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-  "sha256": "cc79a19c42ef2d0175ad119a7939ee7fb1e969e733d4aa1c2562f09fca07bed4",
-  "releaseNotes": {
-    "ko": "조향 시험 준비 화면에 C4 연결 확인을 추가했습니다. 목표각 수신과 현재 핸들 각도를 표시하며 CAN 조향 송신은 연결되지 않았습니다.",
-    "en": "Adds a C4 steering preview connection check. Displays received target and current steering angle without steering CAN transmission."
-  }
+    "versionCode": 39,
+    "versionName": "1.0.29",
+    "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
+    "sha256": "22d370f885433ae4a502209f07c6d9ca7cda223a910bb8c5f6ee4a8d52e53321",
+    "releaseNotes": {
+        "ko": "- \ube0c\ub79c\uce58 \uc120\ud0dd \ubc84\ud2bc\uacfc \uc5f0\uacb0 \ud6c4 \ubaa9\ub85d \uc870\ud68c \ubcf5\uad6c; \ubaa9\ub85d\uc774 \uc5c6\uc73c\uba74 \uc7ac\uc870\ud68c \uc9c0\uc6d0",
+        "en": "- Restore branch selection and connection-time branch loading with retry"
+    }
 }
