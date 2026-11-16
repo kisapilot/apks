@@ -1,10 +1,10 @@
 {
-    "versionCode": 40,
-    "versionName": "1.0.30",
+    "versionCode": 41,
+    "versionName": "1.0.31",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "fe4e841f43a6b5204536c925b52e8f70504cbe0217838c010322e5b2b710a498",
+    "sha256": "5accb1326a0514fbd8bb4de4250049dda9d7c4aa29cd912bf443d543e2033db8",
     "releaseNotes": {
-        "ko": "- \ud130\ubbf8\ub110 ANSI \uc0c9\uc0c1\u00b7\ubc30\uacbd\uc0c9, 100\uc5f4 \uac00\ub85c \uc2a4\ud06c\ub864\u00b7\uae00\uc790 \ud06c\uae30\u00b7\ud654\uba74 \ub9de\ucda4, Ctrl-C\u00b7Esc\u00b7\ubc29\ud5a5\ud0a4 \uc9c0\uc6d0",
-        "en": "- Preserve terminal ANSI colors; add 100-column scrolling, text sizing, fit mode and control keys"
+        "ko": "- \ube0c\ub79c\uce58 \ubcc0\uacbd\uc758 \uc628\ub85c\ub4dc \ub2e4\uc6b4\ub85c\ub4dc\u00b7\uc2dc\uc791 \ub300\uae30\u00b7OS \uc624\ud504\ub85c\ub4dc \ub300\uae30 \ud45c\uc2dc; \ub2e4\ub978 \ube0c\ub79c\uce58\uc758 \uc774\uc804 \uc900\ube44 \uc0c1\ud0dc \uc624\uc778 \ubc29\uc9c0",
+        "en": "- Clarify onroad branch update progress and OS staging waits; reject stale readiness for another branch"
     }
 }
