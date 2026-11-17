@@ -1,10 +1,10 @@
 {
-    "versionCode": 41,
-    "versionName": "1.0.31",
+    "versionCode": 42,
+    "versionName": "1.0.32",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "5accb1326a0514fbd8bb4de4250049dda9d7c4aa29cd912bf443d543e2033db8",
+    "sha256": "50231f729b3415ca70087a1f5203cc398ada93fa8f93e4d99f5b5a6bd36896e3",
     "releaseNotes": {
-        "ko": "- \ube0c\ub79c\uce58 \ubcc0\uacbd\uc758 \uc628\ub85c\ub4dc \ub2e4\uc6b4\ub85c\ub4dc\u00b7\uc2dc\uc791 \ub300\uae30\u00b7OS \uc624\ud504\ub85c\ub4dc \ub300\uae30 \ud45c\uc2dc; \ub2e4\ub978 \ube0c\ub79c\uce58\uc758 \uc774\uc804 \uc900\ube44 \uc0c1\ud0dc \uc624\uc778 \ubc29\uc9c0",
-        "en": "- Clarify onroad branch update progress and OS staging waits; reject stale readiness for another branch"
+        "ko": "- \uc544\uc774\uc624\ub2c95 PE 84kWh RWD \uc870\ud68c \uc804\uc6a9 \uc9c4\ub2e8: C4 \ucc28\ub7c9\u00b7CAN \uc0c1\ud0dc, ELM327 \ube14\ub8e8\ud22c\uc2a4 \uc5f0\uacb0 \uc2dc\ud5d8\u00b7\ud45c\uc900 \uace0\uc7a5\ucf54\ub4dc\u00b7BMS \uc6d0\ubb38 \uc800\uc7a5",
+        "en": "- Add read-only Ioniq5 PE diagnostics: passive C4 vehicle/CAN status, ELM327 Bluetooth connection checks, standard DTCs and raw BMS capture"
     }
 }
