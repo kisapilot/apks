@@ -1,10 +1,10 @@
 {
-    "versionCode": 42,
-    "versionName": "1.0.32",
+    "versionCode": 43,
+    "versionName": "1.0.33",
     "apkUrl": "https://raw.githubusercontent.com/kisapilot/apks/main/kisa_agent.apk",
-    "sha256": "50231f729b3415ca70087a1f5203cc398ada93fa8f93e4d99f5b5a6bd36896e3",
+    "sha256": "1aad71fdadef9f782614c2c666742276b75ab8dde20f03a9e61841eb741a5c8d",
     "releaseNotes": {
-        "ko": "- \uc544\uc774\uc624\ub2c95 PE 84kWh RWD \uc870\ud68c \uc804\uc6a9 \uc9c4\ub2e8: C4 \ucc28\ub7c9\u00b7CAN \uc0c1\ud0dc, ELM327 \ube14\ub8e8\ud22c\uc2a4 \uc5f0\uacb0 \uc2dc\ud5d8\u00b7\ud45c\uc900 \uace0\uc7a5\ucf54\ub4dc\u00b7BMS \uc6d0\ubb38 \uc800\uc7a5",
-        "en": "- Add read-only Ioniq5 PE diagnostics: passive C4 vehicle/CAN status, ELM327 Bluetooth connection checks, standard DTCs and raw BMS capture"
+        "ko": "- \ubd81\ub9c8\ud06c \uc800\uc7a5 \ub300\uc0c1 \ud3f0/SFTP \uc120\ud0dd, PPK\u00b7OpenSSH \ud0a4 \uac00\uc838\uc624\uae30, \ube44\ubc00\ubc88\ud638 \uc778\uc99d, \uc11c\ubc84 \uc9c0\ubb38 \ud655\uc778\uacfc \ud3f4\ub354 \uc0dd\uc131\u00b7\uc4f0\uae30 \uc5f0\uacb0\uc2dc\ud5d8",
+        "en": "- Select phone/SFTP bookmarks, import PPK/OpenSSH keys, use password auth, verify host fingerprint and test remote folder creation/write"
     }
 }
